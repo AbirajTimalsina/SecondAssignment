@@ -1,4 +1,4 @@
-package com.abiraj.secondassignment.ui.tools;
+package com.abiraj.secondassignment.ui.AutoMorphic;
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;
