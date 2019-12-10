@@ -63,3 +63,4 @@ public class ToolsFragment extends Fragment implements View.OnClickListener {
         }
     }
 }
+
