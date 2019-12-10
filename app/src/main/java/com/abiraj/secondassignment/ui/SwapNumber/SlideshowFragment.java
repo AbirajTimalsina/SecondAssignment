@@ -42,6 +42,7 @@ public class SlideshowFragment extends Fragment implements View.OnClickListener 
     @Override
     public void onClick(View view) {
 
+            // Validation
         if(TextUtils.isEmpty(etFirst.getText())){
 
             etFirst.setError("Please Enter a number");
